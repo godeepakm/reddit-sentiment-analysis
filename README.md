@@ -1,4 +1,6 @@
 # reddit-sentiment-analysis
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgodeepakm%2Freddit-sentiment-analysis.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgodeepakm%2Freddit-sentiment-analysis?ref=badge_shield)
+
 This program goes thru reddit, finds the most mentioned tickers and uses Vader SentimentIntensityAnalyzer to calculate the ticker compound value.  
 
 ## Program Parameters
@@ -61,3 +63,6 @@ Source (US stocks):  https://www.nasdaq.com/market-activity/stocks/screener?exch
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgodeepakm%2Freddit-sentiment-analysis.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgodeepakm%2Freddit-sentiment-analysis?ref=badge_large)
